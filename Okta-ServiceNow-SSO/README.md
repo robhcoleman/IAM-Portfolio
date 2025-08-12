@@ -40,7 +40,11 @@ This lab demonstrates how to configure **SAML-based Single Sign-On (SSO)** betwe
 ---
 
 ## 🖼️ Screenshots
-📌 _Add screenshots in a subfolder called_ `/screenshots/`
+📌## 📸 Screenshots
+
+All related screenshots for this lab can be found here:  
+[View Screenshots](./screenshots)
+
 - Okta SAML app configuration
 - ServiceNow metadata import
 - SAML assertion response (from SAML Tracer)
