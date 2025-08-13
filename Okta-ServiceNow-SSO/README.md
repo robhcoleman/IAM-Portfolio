@@ -57,6 +57,15 @@ All related screenshots for this lab can be found here:
 - Achieved centralized authentication and reduced password fatigue.
 - Demonstrated ability to integrate third-party apps using federation protocols.
 
+### 🔐 MFA Enforcement for ServiceNow SSO
+
+- Enabled Okta Verify and SMS as MFA factors
+- Created a sign-on policy to **require MFA before accessing ServiceNow**
+- Verified flow with test user account in incognito session
+- Screenshots and policy rule config available in `/screenshots/`
+
+Outcome: MFA successfully enforced during SSO login, improving access security.
+
 ---
 
 ## 🧠 Key IAM Concepts Practiced
@@ -65,8 +74,12 @@ All related screenshots for this lab can be found here:
 - Attribute Mapping
 - SP-Initiated vs IdP-Initiated SSO
 - Federation Metadata Exchange
+- MFA Enforcement for ServiceNow SSO
 
 ---
+
+
+
 
 ## 📎 Related Labs
 - [Conditional Access in Entra ID](../EntraID-ConditionalAccess/)
