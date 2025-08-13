@@ -5,6 +5,7 @@ Welcome to my professional IAM Portfolio. This repository highlights real-world 
 Each project is designed to reflect enterprise-level implementations of critical IAM components such as:
 - 🔐 Single Sign-On (SSO) with SAML and OIDC
 - 🛡️ Conditional Access Policy enforcement
+- 🔐 MFA Enforcement for ServiceNow SSO
 - 🔄 Automated provisioning & deprovisioning workflows
 - 📜 Policy-based access control and compliance tracking
 
