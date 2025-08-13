@@ -47,7 +47,8 @@ This lab focuses on implementing **Conditional Access policies** using **Microso
 ---
 
 ## 🖼️ Screenshots
-📌 _Add screenshots in a subfolder called_ `/screenshots/`
+📌 All related screenshots for this Lab can be found here:
+[View Screenshots](./screenshots)
 - Policy creation wizard
 - Named location config
 - Sign-in logs with policy enforcement results
