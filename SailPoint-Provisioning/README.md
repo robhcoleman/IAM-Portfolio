@@ -29,10 +29,6 @@ By completing these labs, you’ve proven capability in:
 
 ---
 
-# 1️⃣ Create Campaign Lab
-*(…rest of the combined README continues here…)*
-
-
 ---
 
 # 1️⃣ Create Campaign Lab
