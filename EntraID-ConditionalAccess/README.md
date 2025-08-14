@@ -12,7 +12,7 @@ This lab focuses on designing and implementing **Conditional Access policies** i
 - Test and validate policies in different scenarios (trusted vs untrusted networks).
 - Document the configuration for repeatability and compliance.
 
-By completing this lab, you’ve proven capability in:
+By completing this lab, I’ve proven capability in:
 - Navigating and managing Entra ID security settings.
 - Balancing user experience with security by tailoring policy conditions.
 - Using built-in reporting to monitor policy impact and troubleshoot issues.
