@@ -12,7 +12,7 @@ This lab demonstrates how to configure **SAML-based Single Sign-On (SSO)** betwe
 - Troubleshoot common SP-initiated and IdP-initiated SAML login issues.
 - Document integration steps with **clear visuals and test validation** for audit readiness.
 
-By completing this lab, you’ve proven capability in:
+By completing this lab, I’ve proven capability in:
 - Configuring SAML SSO metadata between two enterprise systems.
 - Mapping attributes and NameID formats for user identity resolution.
 - Assigning users and testing both IdP-initiated and SP-initiated SSO flows.
