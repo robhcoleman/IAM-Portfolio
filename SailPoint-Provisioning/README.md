@@ -80,7 +80,7 @@ By completing these labs, I’ve proven capability in:
 ---
 
 📸 **Screenshots for Create Campaign**:  
-`/SailPoint-Labs/screenshots/campaign/`
+[View Screenshots](./screenshots)
 
 ---
 
@@ -117,7 +117,7 @@ By completing these labs, I’ve proven capability in:
 ---
 
 📸 **Screenshots for Create Roles**:  
-`/SailPoint-Labs/screenshots/roles/`
+[View Screenshots](./screenshots/roles)`
 
 ---
 
