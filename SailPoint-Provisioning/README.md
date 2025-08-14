@@ -81,6 +81,7 @@ By completing these labs, I’ve proven capability in:
 
 📸 **Screenshots for Create Campaign**:  
 [View Screenshots](./screenshots)
+[View Screenshots](./SailPoint-Provisioning/screenshots)
 
 ---
 
