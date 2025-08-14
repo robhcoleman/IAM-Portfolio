@@ -7,10 +7,11 @@ This lab focuses on designing and implementing **Conditional Access policies** i
 
 ## 🎯 Goals & Objectives
 - Showcase expertise in **policy-based authentication control** using Microsoft Entra ID.
-- Configure policies that require MFA for high-risk sign-ins and sensitive apps.
+- Configure policies that require Multi-Factor Authentication (MFA) for high-risk sign-ins and sensitive apps.
 - Apply conditional logic based on **user role, location, and device state**.
 - Test and validate policies in different scenarios (trusted vs untrusted networks).
 - Document the configuration for repeatability and compliance.
+
 
 By completing this lab, I’ve proven capability in:
 - Navigating and managing Entra ID security settings.
