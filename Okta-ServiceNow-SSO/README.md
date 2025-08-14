@@ -1,7 +1,23 @@
 # 🔐 Okta + ServiceNow: SAML SSO Integration Lab
 
 ## 📘 Overview
-This lab demonstrates how to configure **SAML-based Single Sign-On (SSO)** between **Okta** (as the Identity Provider) and **ServiceNow** (as the Service Provider). This integration allows users to authenticate seamlessly through Okta when accessing ServiceNow.
+This lab demonstrates how to configure **SAML-based Single Sign-On (SSO)** between **Okta** (as the Identity Provider) and **ServiceNow** (as the Service Provider) for secure, centralized authentication. It includes step-by-step configuration, troubleshooting guidance, and MFA integration to strengthen authentication before granting access. This setup is a common enterprise IAM integration that recruiters value because it highlights real-world skills in authentication, federation, and user provisioning.
+
+---
+
+## 🎯 Goals & Objectives
+- Show proficiency in **Okta admin configuration** for SAML applications.
+- Demonstrate the ability to integrate cloud services like **ServiceNow** with an enterprise IdP.
+- Implement **Multi-Factor Authentication (MFA)** policies within the SSO flow.
+- Troubleshoot common SP-initiated and IdP-initiated SAML login issues.
+- Document integration steps with **clear visuals and test validation** for audit readiness.
+
+By completing this lab, you’ve proven capability in:
+- Configuring SAML SSO metadata between two enterprise systems.
+- Mapping attributes and NameID formats for user identity resolution.
+- Assigning users and testing both IdP-initiated and SP-initiated SSO flows.
+- Extending security with MFA and **Just-in-Time (JIT) provisioning** in ServiceNow.
+
 
 ---
 
