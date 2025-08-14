@@ -13,7 +13,7 @@ These labs were designed to:
 - Show proficiency in **static and dynamic role management**, including the use of user attributes for automated membership updates.
 - Highlight the ability to translate **business requirements into IAM policies** that reduce manual effort and support audit readiness.
 
-By completing these labs, you’ve proven capability in:
+By completing these labs, I’ve proven capability in:
 - Launching targeted access reviews with manager-driven certifications.
 - Creating and managing **Standard Roles** for fixed membership scenarios.
 - Designing **Dynamic Roles** that update automatically when user attributes change.
@@ -88,7 +88,7 @@ By completing these labs, you’ve proven capability in:
 
 ### **Standard Role (Static Membership)**
 **Step A – Define Role Details**
-- **Name**: `Finance Project – Year-End Access`
+- **Name**: `Test Role MD`
 - **Role Type**: Standard
 
 **Step B – Add Members Manually**
@@ -103,7 +103,7 @@ By completing these labs, you’ve proven capability in:
 
 ### **Dynamic Role (Attribute-Based Membership)**
 **Step A – Define Role Details**
-- **Name**: `Sales Team – US Region`
+- **Name**: `Test Role MD Dynamic`
 - **Role Type**: Dynamic
 
 **Step B – Build Membership Criteria**
