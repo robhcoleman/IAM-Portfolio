@@ -1,7 +1,24 @@
 # 🛡️ Entra ID: Conditional Access Policy Implementation Lab
 
 ## 📘 Overview
-This lab focuses on implementing **Conditional Access policies** using **Microsoft Entra ID (formerly Azure Active Directory)**. The goal was to enforce contextual access controls based on user risk, location, device state, and app sensitivity.
+This lab focuses on designing and implementing **Conditional Access policies** in Microsoft Entra ID (Azure AD) to enforce adaptive authentication and protect organizational resources. It demonstrates the ability to apply policies based on user context, device compliance, and location risk, ensuring both security and productivity. Conditional Access is a core IAM capability used in almost every modern enterprise.
+
+---
+
+## 🎯 Goals & Objectives
+- Showcase expertise in **policy-based authentication control** using Microsoft Entra ID.
+- Configure policies that require MFA for high-risk sign-ins and sensitive apps.
+- Apply conditional logic based on **user role, location, and device state**.
+- Test and validate policies in different scenarios (trusted vs untrusted networks).
+- Document the configuration for repeatability and compliance.
+
+By completing this lab, you’ve proven capability in:
+- Navigating and managing Entra ID security settings.
+- Balancing user experience with security by tailoring policy conditions.
+- Using built-in reporting to monitor policy impact and troubleshoot issues.
+- Deploying **Zero Trust-aligned access controls** in a cloud environment.
+
+
 
 ---
 
